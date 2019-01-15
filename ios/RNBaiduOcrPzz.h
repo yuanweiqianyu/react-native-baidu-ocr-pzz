@@ -6,7 +6,7 @@
 
 #import <Foundation/Foundation.h>
 #import <React/RCTLog.h>
-#import <AipOcrSdk/AipOcrSdk.h>
+#import <BaiduOcr/AipOcrSdk/AipOcrSdk.h>
 #import <UIKit/UIKit.h>
 
 @interface RNBaiduOcrPzz : NSObject <RCTBridgeModule>
