@@ -1,7 +1,7 @@
 {
   "name": "react-native-baidu-ocr-pzz",
   "title": "React Native Baidu Ocr Pzz",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "RN百度云OCR组件库自测使用",
   "main": "index.js",
   "scripts": {
