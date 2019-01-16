@@ -1,4 +1,10 @@
 #import "RNBaiduOcrPzz.h"
+@interface RNBaiduOcrPzz ()
+    
+/**相机页面**/
+@property (nonatomic,strong)UIViewController *photoVC;
+
+@end
 
 @implementation RNBaiduOcrPzz
 
